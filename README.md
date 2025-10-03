@@ -1,10 +1,5 @@
 # Smart-Student-Management-System-SSMS
 
-Here’s your complete `README.md` file for the Smart Student Management System (SSMS), formatted and ready to include in your project:
-
----
-
-```markdown
 # 🎓 Smart Student Management System (SSMS)
 
 The **Smart Student Management System (SSMS)** is a comprehensive Java console application designed to manage student, course, and academic data. This project is architected to demonstrate a wide array of Java concepts—from basic syntax and OOP principles to advanced features like Generics, Concurrency, Annotations, and File I/O Streams.
@@ -55,15 +50,12 @@ src/
     ├── exceptions/         # Custom exception classes
     └── annotations/        # Custom annotation definition
 ```
----
-Nice — buckle up, Arslan. Below is a complete, multi-package **Java Smart Student Management System (SSMS)** project that touches every concept from your roadmap.
-I kept the code readable and modular so you can compile, run, and extend it. Paste these files into a Java project following the package structure and run `com.ssms.app.Main` to try the console demo.
 
 ---
 
 ## Project package layout (create these directories under `src`)
 
-```
+```markdown
 com/ssms/app
 com/ssms/entities
 com/ssms/enums
@@ -833,7 +825,6 @@ public class Main {
 3. Run `com.ssms.app.Main`.
 4. The app auto-saves to `students.csv` every 10 seconds (daemon thread). Use the menu.
 
----
 
 ---
 
@@ -878,4 +869,4 @@ This project is open for educational use. Feel free to modify and extend it for 
 
 ```
 
-
+---
